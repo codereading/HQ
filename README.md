@@ -1,11 +1,30 @@
-The HQ of the Code Reading Study Group
+#The HQ of the Code Reading Study Group#
 ==
 
-If you want to discuss anything relating to code reading in GENERAL then please use the [wiki](https://github.com/codereading/HQ/wiki) or [issue tracker](https://github.com/codereading/HQ/issues) here.
+##Hey you! Yes you!##
 
-Alternatively if you want to discuss something relating to a specific project then please do that over in its respective wiki and issue tracker.
+Why don't you join our code reading study group. Every week(~ish) we fork a popular open source project* and walkthrough the code together, helping one another with any tricky points. 
 
-Have fun!
+So if you are like us and always wanted read code with ease but found it just too difficult, then don't struggle alone - JOIN OUR GROUP.
+
+*Currently ruby is the popular language but Javascript is on the cards too!*
+
+##What next##
+
+First you should become a member of our fantastic github organization. This aint neccessary as you can still participate as a plain guest but if you'd like to receive email updates to conversatiosn then you need to become a member. To do so is easy. Just visit [here.] (https://github.com/codereading/HQ/issues/12)
+
+##The setup##
+
+We fork a project every week and open an issue tracker and wiki for it. Any discussion pertaining to the project occurs in the issue tracker. We may start adding some know how articles to the wiki.
+
+But we also have a repo called HQ and you are looking at it right now. HQ also has an [issue tracker](https://github.com/codereading/HQ/issues) for all general / 'meta' discussion related to code reading or issues regading how to make this group rock even more.
+
+##House Rules##
+
+1. There's no such thing as a stupid question
+2. Have fun!
+
+**Adam aka RoboDisco**
 
 -----------
 
