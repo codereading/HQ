@@ -5,7 +5,7 @@
 
 Why don't you join our code reading study group. Every week(~ish) we fork a popular open source project* and walkthrough the code together, helping one another with any tricky points. 
 
-So if you are like us and always wanted read code with ease but found it just too difficult, then don't struggle alone - JOIN OUR GROUP.
+So if you are like us and always wanted read code with ease but found it just too difficult, then don't struggle alone - [JOIN OUR GROUP.](https://github.com/codereading/HQ/issues/12)
 
 *Currently ruby is the popular language but Javascript is on the cards too!*
 
