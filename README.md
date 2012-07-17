@@ -23,7 +23,8 @@ But we also have a repo called HQ and you are looking at it right now. HQ also h
 
 ## Code Reading Projects ##
 
-2. [Sinatra - In Progress](https://github.com/codereading/sinatra/issues)
+3. [Cuba - In Progress] (https://github.com/codereading/cuba/issues)
+2. [Sinatra](https://github.com/codereading/sinatra/issues)
 1. [Rack](https://github.com/codereading/rack/issues?state=open)
 
 ##House Rules##
