@@ -23,7 +23,7 @@ But we also have a repo called HQ and you are looking at it right now. HQ also h
 
 ## Code Reading Projects ##
 
-4. [Active Admin] (https://github.com/codereading/active_admin/issues)
+4. [Active Admin - In progress] (https://github.com/codereading/active_admin/issues)
 3. [Cuba] (https://github.com/codereading/cuba/issues)
 2. [Sinatra](https://github.com/codereading/sinatra/issues)
 1. [Rack](https://github.com/codereading/rack/issues?state=open)
