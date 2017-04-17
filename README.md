@@ -1,7 +1,7 @@
-#The HQ of the Code Reading Study Group#
+# The HQ of the Code Reading Study Group #
 ==
 
-##Hey you! Yes you!##
+## Hey you! Yes you! ##
 
 Why don't you join our code reading study group. Every week(~ish) we fork a popular open source project* and walkthrough the code together, helping one another with any tricky points. 
 
@@ -9,13 +9,13 @@ So if you are like us and always wanted to read code with ease but just found it
 
 **Currently ruby is the popular language but Javascript is on the cards too!*
 
-##What next##
+## What next ##
 
 First you should become a member of our fantastic github organization. This isn't neccessary as you can still participate as a plain guest but if you'd like to receive email updates to conversations then you need to become a member. To do so is easy. Just visit [here.] (https://github.com/codereading/HQ/issues/12)
 
 Then go to the latest code reading project's issue tracker and join in the code reading fun! (See below for current project)
 
-##The setup##
+## The setup ##
 
 We fork a project every week and open an issue tracker and wiki for it. Any discussion pertaining to the project occurs in the issue tracker. We may start adding some know how articles to the wiki.
 
@@ -30,7 +30,7 @@ But we also have a repo called HQ and you are looking at it right now. HQ also h
 2. [Sinatra](https://github.com/codereading/sinatra/issues)
 1. [Rack](https://github.com/codereading/rack/issues?state=open)
 
-##House Rules##
+## House Rules ##
 
 1. There's no such thing as a stupid question
 2. Be polite
